@@ -1,4 +1,5 @@
 An extremely simple script to delete discord system messages saying that a thread was created
+
 Example: ![Example image of what these messages are](https://i.kara.cx/N7Bsru.png)
 
 
